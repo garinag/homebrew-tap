@@ -1,6 +1,6 @@
 cask "review-reminder" do
-  version "0.3.0"
-  sha256 "d889da83e873132e5c9b2bd7fc68979139c1768081de5837a7a9fd37cf37876c"
+  version "0.3.1"
+  sha256 "60827ff91930216fa8d1da3faf1cbba82978bba6c47c7c381b8887447e8b5a61"
 
   url "https://github.com/garinag/review-reminder/releases/download/v#{version}/ReviewReminder.zip"
   name "Review Reminder"
